@@ -81,7 +81,7 @@ $cquery = $db->query($sql2);
 
 </div>
 
-<footer class="text-center" id="footer">&copy; Copyright 2022-2023 Red stone shop</footer>
+<footer class="text-center" id="footer">&copy; Copyright 2022-2023 S-Mart</footer>
 </div>
 <!-- detailes model -->
 <?php
