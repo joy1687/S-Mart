@@ -26,7 +26,7 @@ $featured = $db->query($sql);
 
 <nav class="navbar navbar-default navbar-fixed-top" id="navbar">
 <div class="container">
-<a href="/tutorial/index.php" class="navbar-brand" id="text">Red Stone Shop</a>
+<a href="/tutorial/index.php" class="navbar-brand" id="text">S-Mart</a>
 <ul class="nav navbar-nav">
 
 <?php while($parent = mysqli_fetch_assoc($pquery)) : ?>
